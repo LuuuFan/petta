@@ -17,17 +17,20 @@ body{
 .year{
   height: 500px;
   width: 100%;
-  display: flex;
   background-color: white;
-  align-items: flex-end;
 }
 
-.year>div{
-  font-size: 10px;
-  color: white;
-  padding: 5px;
-  margin: 0 10px;
-  background: steelblue;
-  box-shadow: 1px 0px 1px rgba(0, 0, 0, 0.25);
-  
+.year-chart{
+  width: 100%;
+  height: 500px;
+}
+
+.year-chart rect{
+  fill: steelblue;
+}
+
+.year-chart text{
+  fill: white;
+  font-size: 16px;
+  text-anchor: end;
 }
