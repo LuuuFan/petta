@@ -1,10 +1,18 @@
 # Petta
 ## Overview
+<<<<<<< HEAD
 Petta is a data visualization project base on pet data in US. User can easily tell from graphic that the change of the different type of pets in US by year and month, and the percentage of different breed.
 
 Petta will be designed to be able to read the data from csv form file easily. Each visualization is going to show the different levels of details interactively.
 
 Petta is going to use D3.js for constructing each visualization component.
+=======
+Petta is a data visualization project base on pet data in US. User can easily tell from graphic that the change of the different type of pets in US by year and month, and the percentage of different breed. 
+
+Petta will be designed to be able to read the data from csv form file easily. Each visualization is going to show the different levels of details interactively.
+
+Petta is going to use D3.js for constructing each visualization component. 
+>>>>>>> aa2049e1a106d7d3ffdeb88935394592a2fd32c0
 * Year and month change in bar chart
 * Percentage of breed in sunburst chart
 * (Bonus) Map of breeder range
@@ -36,7 +44,11 @@ In Petta, users will be able to:
 - [ ] By clicking type of pet, petta will show the percentage of breed in this type as a sunbrust chart.
 
 Bonus
+<<<<<<< HEAD
 - [ ] By clicking the breed of pet, user can see the breeder location and their pets destination.
+=======
+- [ ] By clicking the breed of pet, user can see the breeder location and their pets destination. 
+>>>>>>> aa2049e1a106d7d3ffdeb88935394592a2fd32c0
 
 ## Timeline
 
@@ -44,7 +56,11 @@ Bonus
 - [ ] Research the interested data sets and design project
 - [ ] Finish proposal
 - [ ] Completed D3 Tutorial
+<<<<<<< HEAD
 - [ ] Setup all necessary Node modules, including getting webpack up and running. Create `webpack.config.js` adn `package.json`.
+=======
+- [ ] Setup all necessary Node modules, including getting webpack up and running. Create `webpack.config.js` adn `package.json`. 
+>>>>>>> aa2049e1a106d7d3ffdeb88935394592a2fd32c0
 - [ ] Finish basic bar chart practice
 
 ### Day 1
