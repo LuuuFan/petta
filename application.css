@@ -1,0 +1,33 @@
+body{
+  font-family: 'Rubik';
+  background-color: #f5f5f5;
+}
+
+.main{
+  width: 60%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.main>div{
+  border-radius: 5px;
+  box-shadow: 1px 0px 1px rgba(0, 0, 0, 0.25);
+}
+
+.year{
+  height: 500px;
+  width: 100%;
+  display: flex;
+  background-color: white;
+  align-items: flex-end;
+}
+
+.year>div{
+  font-size: 10px;
+  color: white;
+  padding: 5px;
+  margin: 0 10px;
+  background: steelblue;
+  box-shadow: 1px 0px 1px rgba(0, 0, 0, 0.25);
+  
+}
