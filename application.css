@@ -20,17 +20,18 @@ body{
   background-color: white;
 }
 
-.year-chart{
+#year-chart{
   width: 100%;
   height: 500px;
+  color: black;
 }
 
-.year-chart rect{
+#year-chart rect{
   fill: steelblue;
 }
 
-.year-chart text{
-  fill: white;
+#year-chart g text{
+  fill: black;
   font-size: 16px;
   text-anchor: end;
 }
