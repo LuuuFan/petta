@@ -40,19 +40,19 @@ Bonus
 
 ## Timeline
 
-## Over weekend:
+### Over weekend:
 - [ ] Research the interested data sets and design project
 - [ ] Finish proposal
 - [ ] Completed D3 Tutorial
 - [ ] Setup all necessary Node modules, including getting webpack up and running. Create `webpack.config.js` adn `package.json`. 
 - [ ] Finish basic bar chart practice
 
-## Day 1
+### Day 1
 - [ ] Deep learning D3 bar chart, get familiar with sunbrust chart
 - [ ] Finish year bar chart and interactive the type of pet and monthly bar chart
 - [ ] Finish monthly bar chart
 
-## Day 2
+### Day 2
 - [ ] Get more data about breed or emulate some
 - [ ] Finish the type of pet by year
 - [ ] Start working on sunbrust chart
@@ -62,9 +62,9 @@ Bonus
 - [ ] Interactive sunbrust chart
 - [ ] Bonus: learn map tracking
 
-## Day 4
+### Day 4
 - [ ] Polish the unideal component
 - [ ] Emulate breeder tracking data, try to make map tracking chart
 
-Bonus features
+## Bonus features
 - [ ] User can click breed to see the breeder in US and their pets track
