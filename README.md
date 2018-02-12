@@ -50,6 +50,10 @@ Bonus
 - [ ] By clicking the breed of pet, user can see the breeder location and their pets destination. 
 >>>>>>> aa2049e1a106d7d3ffdeb88935394592a2fd32c0
 
+## Wireframes
+![](https://res.cloudinary.com/ddwejrtgh/image/upload/v1518402124/Screenshot_from_2018-02-11_18-13-50_csymhb.png)
+![](https://res.cloudinary.com/ddwejrtgh/image/upload/v1518404143/Screenshot_from_2018-02-11_18-55-32_yctcem.png)
+
 ## Timeline
 
 ### Over weekend:
