@@ -30,8 +30,12 @@ body{
   fill: steelblue;
 }
 
-#year-chart g text{
+.axis text{
   fill: black;
-  font-size: 16px;
-  text-anchor: end;
+  font-size: 14px;
+}
+
+.bars text{
+  fill: white;
+  font-size: 0.7em;
 }
