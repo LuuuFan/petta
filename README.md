@@ -41,8 +41,7 @@ Bonus
 
 
 ## Wireframes
-![](https://res.cloudinary.com/ddwejrtgh/image/upload/v1518402124/Screenshot_from_2018-02-11_18-13-50_csymhb.png)
-![](https://res.cloudinary.com/ddwejrtgh/image/upload/v1518404143/Screenshot_from_2018-02-11_18-55-32_yctcem.png)
+![](https://res.cloudinary.com/ddwejrtgh/image/upload/v1518402124/Screenshot_from_2018-02-11_18-13-50_csymhb.png)![](https://res.cloudinary.com/ddwejrtgh/image/upload/v1518404143/Screenshot_from_2018-02-11_18-55-32_yctcem.png)
 
 ## Timeline
 
