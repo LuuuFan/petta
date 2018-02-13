@@ -54,8 +54,8 @@ Bonus
 
 ### Day 1
 - [ ] Deep learning D3 bar chart, get familiar with sunbrust chart
-- [ ] Finish year bar chart and interactive the type of pet and monthly bar chart
-- [ ] Finish monthly bar chart
+- [ ] Finish year bar chart and interactive the type of pet and monthly line chart
+- [ ] Finish monthly line chart
 
 ### Day 2
 - [ ] Get more data about breed or emulate some
