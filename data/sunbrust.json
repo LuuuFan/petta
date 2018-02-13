@@ -1,0 +1,146 @@
+{
+  "name": "pet",
+  "children": [
+    {
+      "name": "dog",
+      "children": [
+        {"name":"Labrador Retriever", "number":	60931},
+        {"name":"Chihuahua", "number":	42244},
+        {"name":"German Shepherd", "number":	27712},
+        {"name":"Shih Tzu", "number":	23883},
+        {"name":"Golden Retriever", "number":	22828},
+        {"name":"American Pit Bull Terrier", "number":	22675},
+        {"name":"Dachshund", "number":	22430},
+        {"name":"Yorkshire Terrier", "number":	21050},
+        {"name":"Pug", "number":	20875},
+        {"name":"Boxer", "number":	20576},
+        {"name":"Beagle", "number":	20144},
+        {"name":"Jack Russell Terrier", "number":	15869},
+        {"name":"Pomeranian", "number":	13955},
+        {"name":"Border Collie", "number":	13255},
+        {"name":"Mixed Breed", "number":	12251},
+      ]
+    },
+    {
+      "name": "cat",
+      "children": [
+        {"name":"Domestic Shorthair", "number":	61046},
+        {"name":"American Shorthair", "number":	37545},
+        {"name":"Domestic Medium Hair", "number":	16776},
+        {"name":"Domestic Long Hair", "number":	15049},
+        {"name":"Siamese", "number":	14582},
+        {"name":"Maine Coon", "number":	10852},
+        {"name":"Persian", "number":	6717},
+        {"name":"Russian Blue", "number":	3864},
+        {"name":"Himalayan", "number":	3701},
+        {"name":"Ragdoll", "number":	3567},
+        {"name":"Bengal", "number":	3118},
+        {"name":"Manx", "number":	2349},
+        {"name":"British Shorthair", "number":	2171},
+        {"name":"Norwegian Forest Cat", "number":	1827},
+        {"name":"Bombay", "number":	1580},
+      ]
+    }
+    {
+      "name": "freshwater fish",
+      "children": [
+        {"name": "Neon Tetra"},
+        {"name": "Danios"},
+        {"name": "Platies"},
+        {"name": "Guppies"},
+        {"name": "Kuhli Loach"},
+        {"name": "Cherry Barb"},
+        {"name": "Fire Mouth Cichilid"},
+        {"name": "Pearl Gourami"},
+        {"name": "Tiger Pleco"},
+        {"name": "Cory Catfish"},
+        {"name": "Mollies"},
+        {"name": "Sword Tails"},
+        {"name": "Betta"},
+      ]
+    }
+    {
+      "name": "bird",
+      "children": [
+        {"name": "Cockatiels"},
+        {"name": "African Grey Parrots"},
+        {"name": "Budgerigars"},
+        {"name": "Cockatoos"},
+        {"name": "Conures"},
+        {"name": "Macaws"},
+        {"name": "Poicephalus"},
+        {"name": "Amazon Parrots"},
+        {"name": "Quaker Parrots"},
+        {"name": "Pionus Parrot"},
+      ]
+    }
+    {
+      "name": "small animal",
+      "children": [
+        {"name": "Guinea Pig"},
+        {"name": "Hamsters"},
+        {"name": "Rabbits"},
+        {"name": "Ferrets"},
+        {"name": "Box Turtles"},
+        {"name": "Chinchilla"},
+        {"name": "Hermit Crab"},
+        {"name": "Hermit Crab"},
+      ]
+    }
+    {
+      "name": "reptile",
+      "children": [
+        {"name": "Corn Snake"},
+        {"name": "Royal Python"},
+        {"name": "Leopard Gecko"},
+        {"name": "Bearded Dragon"},
+        {"name": "Blue Tongue Skink"},
+        {"name": "Monitor Lizard"},
+        {"name": "Chameleon"},
+        {"name": "Russian Tortoise"},
+        {"name": "African Sulcata Tortoise"},
+        {"name": "Red-eared Slider"},
+      ]
+    }
+    {
+      "name": "horse",
+      "children": [
+        {"name": "Arabian"},
+        {"name": "Quarter Horse"},
+        {"name": "Thoroughbred"},
+        {"name": "Tennessee Walker"},
+        {"name": "Morgan"},
+        {"name": "Paint"},
+        {"name": "Appaloosa"},
+        {"name": "Miniature Horse"},
+        {"name": "Warmblood"},
+        {"name": "Andalusian"},
+      ]
+    }
+    {
+      "name": "saltwater fish",
+      "children": [
+        {"name": "Green Chromis"},
+        {"name": "Blue Devil Damselfish"},
+        {"name": "Domino Damselfish"},
+        {"name": "Three Stripe Damselfish"},
+        {"name": "Clownfish"},
+        {"name": "Yellowtail"},
+        {"name": "Four Stripe Damselfish"},
+        {"name": "Azure Damselfish"},
+        {"name": "Firefish"},
+        {"name": "Banggai Cardinalfish"},
+        {"name": "Mandarinfish"},
+        {"name": "Blue Hippo Tang"},
+        {"name": "Bluestreak Cleaner Wrasse"},
+        {"name": "Flame Angelfish"},
+        {"name": "Maroon Clownfish"},
+        {"name": "Coral Beauty"},
+        {"name": "Line Wrasse"},
+        {"name": "Tomato Clownfish"},
+        {"name": "Royal Gramma"},
+        {"name": "Pajama Cardinalfish"},
+      ]
+    }
+  ]
+}
