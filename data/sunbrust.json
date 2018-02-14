@@ -1,10 +1,19 @@
-{
+  {
   "name": "pet",
   "children": [
     {
       "name": "dog",
       "children": [
-        {"name":"Labrador Retriever", "number":	60931},
+        {
+          "name":"Labrador Retriever",
+          "children": [
+            {"name": "Yellow", "number":	12186},
+            {"name": "Black", "number":	12186},
+            {"name": "Chocolate", "number":	12186},
+            {"name": "Fox Red", "number":	12186},
+            {"name": "White", "number":	12187}
+          ]
+        },
         {"name":"Chihuahua", "number":	42244},
         {"name":"German Shepherd", "number":	27712},
         {"name":"Shih Tzu", "number":	23883},
@@ -18,7 +27,7 @@
         {"name":"Jack Russell Terrier", "number":	15869},
         {"name":"Pomeranian", "number":	13955},
         {"name":"Border Collie", "number":	13255},
-        {"name":"Mixed Breed", "number":	12251},
+        {"name":"Mixed Breed", "number":	12251}
       ]
     },
     {
@@ -38,108 +47,108 @@
         {"name":"Manx", "number":	2349},
         {"name":"British Shorthair", "number":	2171},
         {"name":"Norwegian Forest Cat", "number":	1827},
-        {"name":"Bombay", "number":	1580},
+        {"name":"Bombay", "number":	1580}
       ]
-    }
+    },
     {
       "name": "freshwater fish",
       "children": [
-        {"name": "Neon Tetra"},
-        {"name": "Danios"},
-        {"name": "Platies"},
-        {"name": "Guppies"},
-        {"name": "Kuhli Loach"},
-        {"name": "Cherry Barb"},
-        {"name": "Fire Mouth Cichilid"},
-        {"name": "Pearl Gourami"},
-        {"name": "Tiger Pleco"},
-        {"name": "Cory Catfish"},
-        {"name": "Mollies"},
-        {"name": "Sword Tails"},
-        {"name": "Betta"},
+        {"name": "Neon Tetra", "number":	1580},
+        {"name": "Danios", "number":	1580},
+        {"name": "Platies", "number":	1580},
+        {"name": "Guppies", "number":	1580},
+        {"name": "Kuhli Loach", "number":	1580},
+        {"name": "Cherry Barb", "number":	1580},
+        {"name": "Fire Mouth Cichilid", "number":	1580},
+        {"name": "Pearl Gourami", "number":	1580},
+        {"name": "Tiger Pleco", "number":	1580},
+        {"name": "Cory Catfish", "number":	1580},
+        {"name": "Mollies", "number":	1580},
+        {"name": "Sword Tails", "number":	1580},
+        {"name": "Betta", "number":	1580}
       ]
-    }
+    },
     {
       "name": "bird",
       "children": [
-        {"name": "Cockatiels"},
-        {"name": "African Grey Parrots"},
-        {"name": "Budgerigars"},
-        {"name": "Cockatoos"},
-        {"name": "Conures"},
-        {"name": "Macaws"},
-        {"name": "Poicephalus"},
-        {"name": "Amazon Parrots"},
-        {"name": "Quaker Parrots"},
-        {"name": "Pionus Parrot"},
+        {"name": "Cockatiels", "number":	1580},
+        {"name": "African Grey Parrots", "number":	1580},
+        {"name": "Budgerigars", "number":	1580},
+        {"name": "Cockatoos", "number":	1580},
+        {"name": "Conures", "number":	1580},
+        {"name": "Macaws", "number":	1580},
+        {"name": "Poicephalus", "number":	1580},
+        {"name": "Amazon Parrots", "number":	1580},
+        {"name": "Quaker Parrots", "number":	1580},
+        {"name": "Pionus Parrot", "number":	1580}
       ]
-    }
+    },
     {
       "name": "small animal",
       "children": [
-        {"name": "Guinea Pig"},
-        {"name": "Hamsters"},
-        {"name": "Rabbits"},
-        {"name": "Ferrets"},
-        {"name": "Box Turtles"},
-        {"name": "Chinchilla"},
-        {"name": "Hermit Crab"},
-        {"name": "Hermit Crab"},
+        {"name": "Guinea Pig", "number":	1580},
+        {"name": "Hamsters", "number":	1580},
+        {"name": "Rabbits", "number":	1580},
+        {"name": "Ferrets", "number":	1580},
+        {"name": "Box Turtles", "number":	1580},
+        {"name": "Chinchilla", "number":	1580},
+        {"name": "Hermit Crab", "number":	1580},
+        {"name": "Hermit Crab", "number":	1580}
       ]
-    }
+    },
     {
       "name": "reptile",
       "children": [
-        {"name": "Corn Snake"},
-        {"name": "Royal Python"},
-        {"name": "Leopard Gecko"},
-        {"name": "Bearded Dragon"},
-        {"name": "Blue Tongue Skink"},
-        {"name": "Monitor Lizard"},
-        {"name": "Chameleon"},
-        {"name": "Russian Tortoise"},
-        {"name": "African Sulcata Tortoise"},
-        {"name": "Red-eared Slider"},
+        {"name": "Corn Snake", "number":	1580},
+        {"name": "Royal Python", "number":	1580},
+        {"name": "Leopard Gecko", "number":	1580},
+        {"name": "Bearded Dragon", "number":	1580},
+        {"name": "Blue Tongue Skink", "number":	1580},
+        {"name": "Monitor Lizard", "number":	1580},
+        {"name": "Chameleon", "number":	1580},
+        {"name": "Russian Tortoise", "number":	1580},
+        {"name": "African Sulcata Tortoise", "number":	1580},
+        {"name": "Red-eared Slider", "number":	1580}
       ]
-    }
+    },
     {
       "name": "horse",
       "children": [
-        {"name": "Arabian"},
-        {"name": "Quarter Horse"},
-        {"name": "Thoroughbred"},
-        {"name": "Tennessee Walker"},
-        {"name": "Morgan"},
-        {"name": "Paint"},
-        {"name": "Appaloosa"},
-        {"name": "Miniature Horse"},
-        {"name": "Warmblood"},
-        {"name": "Andalusian"},
+        {"name": "Arabian", "number":	1580},
+        {"name": "Quarter Horse", "number":	1580},
+        {"name": "Thoroughbred", "number":	1580},
+        {"name": "Tennessee Walker", "number":	1580},
+        {"name": "Morgan", "number":	1580},
+        {"name": "Paint", "number":	1580},
+        {"name": "Appaloosa", "number":	1580},
+        {"name": "Miniature Horse", "number":	1580},
+        {"name": "Warmblood", "number":	1580},
+        {"name": "Andalusian", "number":	1580}
       ]
-    }
+    },
     {
       "name": "saltwater fish",
       "children": [
-        {"name": "Green Chromis"},
-        {"name": "Blue Devil Damselfish"},
-        {"name": "Domino Damselfish"},
-        {"name": "Three Stripe Damselfish"},
-        {"name": "Clownfish"},
-        {"name": "Yellowtail"},
-        {"name": "Four Stripe Damselfish"},
-        {"name": "Azure Damselfish"},
-        {"name": "Firefish"},
-        {"name": "Banggai Cardinalfish"},
-        {"name": "Mandarinfish"},
-        {"name": "Blue Hippo Tang"},
-        {"name": "Bluestreak Cleaner Wrasse"},
-        {"name": "Flame Angelfish"},
-        {"name": "Maroon Clownfish"},
-        {"name": "Coral Beauty"},
-        {"name": "Line Wrasse"},
-        {"name": "Tomato Clownfish"},
-        {"name": "Royal Gramma"},
-        {"name": "Pajama Cardinalfish"},
+        {"name": "Green Chromis", "number":	1580},
+        {"name": "Blue Devil Damselfish", "number":	1580},
+        {"name": "Domino Damselfish", "number":	1580},
+        {"name": "Three Stripe Damselfish", "number":	1580},
+        {"name": "Clownfish", "number":	1580},
+        {"name": "Yellowtail", "number":	1580},
+        {"name": "Four Stripe Damselfish", "number":	1580},
+        {"name": "Azure Damselfish", "number":	1580},
+        {"name": "Firefish", "number":	1580},
+        {"name": "Banggai Cardinalfish", "number":	1580},
+        {"name": "Mandarinfish", "number":	1580},
+        {"name": "Blue Hippo Tang", "number":	1580},
+        {"name": "Bluestreak Cleaner Wrasse", "number":	1580},
+        {"name": "Flame Angelfish", "number":	1580},
+        {"name": "Maroon Clownfish", "number":	1580},
+        {"name": "Coral Beauty", "number":	1580},
+        {"name": "Line Wrasse", "number":	1580},
+        {"name": "Tomato Clownfish", "number":	1580},
+        {"name": "Royal Gramma", "number":	1580},
+        {"name": "Pajama Cardinalfish", "number":	1580}
       ]
     }
   ]
