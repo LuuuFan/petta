@@ -96,11 +96,8 @@ h1{
   position: relative
 }
 
-.explanation{
-  visibility: hidden;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  margin: auto;
-  text-align: center
+#name{
+  padding: 10px;
+  font-size: 14px;
+  font-weight: normal;
 }
