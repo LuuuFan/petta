@@ -1,12 +1,14 @@
 body{
   font-family: 'Rubik';
   background-color: #f5f5f5;
+  text-align: center;
 }
 
 h1{
   font-size: 24px;
   font-weight: bold;
   padding-top: 20px;
+  margin: auto;
 }
 
 .main{
