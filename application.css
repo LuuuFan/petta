@@ -92,7 +92,7 @@ h1{
   /* float: left; */
 }
 
-.sunburst{
+.sunburst, .map {
   width: 100%;
   height: 900px;
   position: relative
