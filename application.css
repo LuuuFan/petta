@@ -5,9 +5,9 @@ body{
 }
 
 h1{
-  font-size: 24px;
+  font-size: 36px;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 30px;
   margin: auto;
 }
 
@@ -25,14 +25,15 @@ h1{
 }
 
 .year{
-  height: 500px;
+  height: 600px;
   width: 100%;
 }
 
-.year h3{
-  padding: 10px;
+h3, .month-line, .year-pie{
+  padding: 20px 0 5px 0;
   font-size: 14px;
   font-weight: normal;
+  font-weight: bold;
 }
 
 #year-chart{
@@ -103,6 +104,8 @@ h1{
   font-size: 14px;
   font-weight: normal;
 }
+
+
 
 /* .avatar{
   position: absolute;
