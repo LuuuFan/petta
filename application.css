@@ -103,3 +103,20 @@ h1{
   font-size: 14px;
   font-weight: normal;
 }
+
+/* .avatar{
+  position: absolute;
+  left: 39.5%;
+  top: 38.5%;
+  height: 24%;
+  width: 24%;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.avatar>img{
+  object-fit: cover;
+  height: 100%;
+} */

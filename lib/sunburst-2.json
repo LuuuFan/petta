@@ -151,84 +151,197 @@
   {
     "name": "Bird",
     "children": [
-      {"name": "Cockatiels", "size":	0.548},
-      {"name": "African Grey Parrots", "size":	0.548},
-      {"name": "Budgerigars", "size":	0.548},
-      {"name": "Cockatoos", "size":	0.548},
-      {"name": "Conures", "size":	0.548},
-      {"name": "Macaws", "size":	0.548},
-      {"name": "Poicephalus", "size":	0.548},
-      {"name": "Amazon Parrots", "size":	0.548},
-      {"name": "Quaker Parrots", "size":	0.548},
-      {"name": "Pionus Parrot", "size":	0.548}
+      {"name": "Cockatiels", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518758801/cockatiel1_teisjk.jpg"
+      },
+      {"name": "African Grey Parrots", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518758857/hqdefault_maw96z.jpg"
+      },
+      {"name": "Budgerigars", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518758923/83694764_b2a178aa49_kswc2b.jpg"
+      },
+      {"name": "Cockatoos", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759001/Untitled-design-30-770x405_fpsqq3.jpg"
+      },
+      {"name": "Conures", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759025/conure_wea7wd.jpg"
+      },
+      {"name": "Macaws", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759133/macaw-scarlet_b5bmtm.jpg"
+      },
+      {"name": "Poicephalus", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759154/Lorito-Senegales-1_r9yjsn.jpg"
+      },
+      {"name": "Amazon Parrots", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759205/the-yellow-naped-amazon-545259945-588fcc515f9b5874ee655958_rxefq2.jpg"
+      },
+      {"name": "Quaker Parrots", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759267/quaker-parrots-for-sale-in-keller-tx_nxylrb.jpg"
+      },
+      {"name": "Pionus Parrot", "size":	0.548,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759307/blue-headed-pionus-parrot-mary-deal_gnixsq.jpg"
+      }
     ]
   },
   {
     "name": "Small Animal",
     "children": [
-      {"name": "Guinea Pig", "size":	0.58},
-      {"name": "Hamsters", "size":	0.58},
-      {"name": "Rabbits", "size":	0.58},
-      {"name": "Ferrets", "size":	0.58},
-      {"name": "Box Turtles", "size":	0.58},
-      {"name": "Chinchilla", "size":	0.58},
-      {"name": "Hermit Crab", "size":	0.58},
-      {"name": "Hermit Crab", "size":	0.58}
+      {"name": "Guinea Pig", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759421/Teddy-guinea-pig_bzeefi.jpg"
+      },
+      {"name": "Hamsters", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759474/103304021-56a2bcfc3df78cf772796214_kwkybc.jpg"
+      },
+      {"name": "Rabbits", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759526/Dental-Hygiene-For-Rabbits-970x546_n8vcgl.jpg"
+      },
+      {"name": "Ferrets", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759622/GettyImages-157431696-5818d0a83df78cc2e8c87e9f_r1iqob.jpg"
+      },
+      {"name": "Box Turtles", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759646/Florida_Box_Turtle_Digon3_qlaea3.jpg"
+      },
+      {"name": "Chinchilla", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759676/perfectly-round-chinchilla-camerons-chinchillas-15-58ad5374a8afb__700_cjywfj.jpg"
+      },
+      {"name": "Hermit Crab", "size":	0.58,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759745/hermit-crab.jpg.860x0_q70_crop-scale_d8hgii.jpg"
+      }
     ]
   },
   {
     "name": "Reptile",
     "children": [
-      {"name": "Corn Snake", "size":	0.326},
-      {"name": "Royal Python", "size":	0.326},
-      {"name": "Leopard Gecko", "size":	0.326},
-      {"name": "Bearded Dragon", "size":	0.326},
-      {"name": "Blue Tongue Skink", "size":	0.326},
-      {"name": "Monitor Lizard", "size":	0.326},
-      {"name": "Chameleon", "size":	0.326},
-      {"name": "Russian Tortoise", "size":	0.326},
-      {"name": "African Sulcata Tortoise", "size":	0.326},
-      {"name": "Red-eared Slider", "size":	0.326}
+      {"name": "Corn Snake", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759822/corn-snake-from-the-lower-florida-keys-530475947-588124bc5f9b58bdb3ec9f93_hm5n8w.jpg"
+      },
+      {"name": "Royal Python", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759906/ball_2Bpython_ssipja.jpg"
+      },
+      {"name": "Leopard Gecko", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759934/163591944-56a2bcf63df78cf7727961bd_k62hc7.jpg"
+      },
+      {"name": "Bearded Dragon", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518759989/466161405_XS_wkhg5x.jpg"
+      },
+      {"name": "Blue Tongue Skink", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760095/bluetongueskink-hatchling_jsevvc.jpg"
+      },
+      {"name": "Monitor Lizard", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760129/MonitorLizard_fpsmej.jpg"
+      },
+      {"name": "Chameleon", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760217/chameleonWC3-587e41af5f9b584db3cd8ac9_t9brg2.jpg"
+      },
+      {"name": "Russian Tortoise", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760274/BABY-RUSSIAN-TORTOISE-ConvertImage-ConvertImage_zbg5e4.jpg"
+      },
+      {"name": "African Sulcata Tortoise", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760365/sulcata-tortoise16_cgtufx.jpg"
+      },
+      {"name": "Red-eared Slider", "size":	0.326,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760397/rio-grande-red-eared-slider4_sjldys.jpg"
+      }
     ]
   },
   {
     "name": "Horse",
     "children": [
-      {"name": "Arabian", "size":	0.18},
-      {"name": "Quarter Horse", "size":	0.18},
-      {"name": "Thoroughbred", "size":	0.18},
-      {"name": "Tennessee Walker", "size":	0.18},
-      {"name": "Morgan", "size":	0.18},
-      {"name": "Paint", "size":	0.18},
-      {"name": "Appaloosa", "size":	0.18},
-      {"name": "Miniature Horse", "size":	0.18},
-      {"name": "Warmblood", "size":	0.18},
-      {"name": "Andalusian", "size":	0.18}
+      {"name": "Arabian", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760461/horses-for-sale-1_zryqk2.jpg"
+      },
+      {"name": "Quarter Horse", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760550/0186_ebysef.jpg"
+      },
+      {"name": "Thoroughbred", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760636/TBsamp5_yxjx9u.jpg"
+      },
+      {"name": "Tennessee Walker", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760616/BuckskinTWH_cmzru3.jpg"
+      },
+      {"name": "Morgan", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760734/ChestnutSilver_ssokcu.jpg"
+      },
+      {"name": "Paint", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760756/paint-horse-running_800_abwues.jpg"
+      },
+      {"name": "Appaloosa", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760833/appaloosa_horse_facts_grande_xwm3s1.jpg"
+      },
+      {"name": "Miniature Horse", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760904/mh5-7640185210_f483b16877_o_qvbrdi.jpg"
+      },
+      {"name": "Warmblood", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760933/Dutch-Warmblood-Images_da919s.jpg"
+      },
+      {"name": "Andalusian", "size":	0.18,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518760981/andalusian_horse_temperament_grande_wxpodd.jpg"
+      }
     ]
   },
   {
     "name": "Saltwater Fish",
     "children": [
-      {"name": "Green Chromis", "size":	0.086},
-      {"name": "Blue Devil Damselfish", "size":	0.086},
-      {"name": "Domino Damselfish", "size":	0.086},
-      {"name": "Three Stripe Damselfish", "size":	0.086},
-      {"name": "Clownfish", "size":	0.086},
-      {"name": "Yellowtail", "size":	0.086},
-      {"name": "Four Stripe Damselfish", "size":	0.086},
-      {"name": "Azure Damselfish", "size":	0.086},
-      {"name": "Firefish", "size":	0.086},
-      {"name": "Banggai Cardinalfish", "size":	0.086},
-      {"name": "Mandarinfish", "size":	0.086},
-      {"name": "Blue Hippo Tang", "size":	0.086},
-      {"name": "Bluestreak Cleaner Wrasse", "size":	0.086},
-      {"name": "Flame Angelfish", "size":	0.086},
-      {"name": "Maroon Clownfish", "size":	0.086},
-      {"name": "Coral Beauty", "size":	0.086},
-      {"name": "Line Wrasse", "size":	0.086},
-      {"name": "Tomato Clownfish", "size":	0.086},
-      {"name": "Royal Gramma", "size":	0.086},
-      {"name": "Pajama Cardinalfish", "size":	0.086}
+      {"name": "Green Chromis", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761044/1054627-right-1_iwmeyh.jpg"
+      },
+      {"name": "Blue Devil Damselfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761137/3334588884_486d6fd47a_b_qrzwjf.jpg"
+      },
+      {"name": "Domino Damselfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761187/5645_grande_tpmofy.jpg"
+      },
+      {"name": "Three Stripe Damselfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761172/dascyllus_aruanus_lgpvs0.jpg"
+      },
+      {"name": "Clownfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761223/117200L_kviqm9.jpg"
+      },
+      {"name": "Yellowtail", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761530/yellowtail-school-8_o2v8bn.png"
+      },
+      {"name": "Four Stripe Damselfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761511/Four_20Stripe_20Damselfish_qc0usx.jpg"
+      },
+      {"name": "Azure Damselfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761654/213659_u0a4ce.jpg"
+      },
+      {"name": "Firefish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761679/Red-Firefish-Goby_zxrxsh.png"
+      },
+      {"name": "Banggai Cardinalfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761754/banggai1_sri04f.jpg"
+      },
+      {"name": "Mandarinfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761798/Mandarinfish-Baby_ulkfvd.jpg"
+      },
+      {"name": "Blue Hippo Tang", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761832/138190L_q1lccn.jpg"
+      },
+      {"name": "Bluestreak Cleaner Wrasse", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761872/lg-0304101-124_wnyohs.jpg"
+      },
+      {"name": "Flame Angelfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761916/lg-66271-Flame-Tahiti_pdm8h5.jpg"
+      },
+      {"name": "Maroon Clownfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518761954/p91928GoldflakeMaroonClown_u0ayv0.jpg"
+      },
+      {"name": "Coral Beauty", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518762006/lg66118CoralBeautyAngel_s4iy8e.jpg"
+      },
+      {"name": "Line Wrasse", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518762048/whitby091_zlmutp.jpg"
+      },
+      {"name": "Tomato Clownfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518762085/116400L_iwfhca.jpg"
+      },
+      {"name": "Royal Gramma", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518762111/107600L_jcrniq.jpg"
+      },
+      {"name": "Pajama Cardinalfish", "size":	0.086,
+        "img": "https://res.cloudinary.com/ddwejrtgh/image/upload/v1518762148/lg91983PajamaCardinal_bzcsnl.jpg"
+      }
     ]
   }
 ]
