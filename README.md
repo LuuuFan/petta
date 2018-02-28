@@ -6,11 +6,11 @@ Petta is designed to be able to read the data from csv form file easily. Each vi
 
 Petta is using D3.js for constructing each visualization component.
 * Year and month change in bar chart, line chart and pie chart.
-![](/doc/Screenshot from 2018-02-28 10-14-29.png)
+![](https://github.com/LuuuFan/petta/blob/master/doc/Screenshot%20from%202018-02-28%2010-14-29.png)
 * Percentage of breed in sunburst chart
-![](/doc/Screenshot from 2018-02-28 10-18-53.png)
+![](https://github.com/LuuuFan/petta/blob/master/doc/Screenshot%20from%202018-02-28%2010-18-53.png)
 * Sample Map of breeder range
-![](/doc/Screenshot from 2018-02-28 10-19-24.png)
+![](https://github.com/LuuuFan/petta/blob/master/doc/Screenshot%20from%202018-02-28%2010-19-24.png)
 
 ## Technologies
 This project is implemented with the following technologies:
