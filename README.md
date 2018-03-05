@@ -58,3 +58,7 @@ d3.json('./lib/sunburst-2.json', (error, data)=>{
 ```
 
 ## Future Development
+
+-[] Make animation on montly line chart/
+-[] Make the path of breeder and their puppies as arc 
+-[] Make the breeder's puppies to show as animation
