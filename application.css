@@ -135,6 +135,33 @@ h3, .month-line, .year-pie{
   font-weight: normal;
 }
 
+.main>div.buttons{
+  background-color: transparent;
+  border: none;
+  box-shadow: 0px 0px 0px rgba(0,0,0,0);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.main>div.buttons button{
+  cursor: pointer;
+  font-size: 12px;
+  border-radius: 5px;
+  border: 1px slid lightgray;
+  box-shadow: 1px 0px 1px rgba(0, 0, 0, 0.25);
+  padding: 3px 5px;
+  margin: 0 10px;
+  background-color: white;
+}
+
+.main>div.buttons button:hover{
+  background-color: gray;
+  color: white;
+  transition: all .8s;
+}
+
+
 /* .avatar{
   position: absolute;
   left: 39.5%;
@@ -158,4 +185,24 @@ h3, .month-line, .year-pie{
 
 .nodetext{
   font-size: 12px;
+}
+
+.top{
+  cursor: pointer;
+  display: none;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  height: 50px; 
+  width: 50px; 
+}
+
+.top{
+  stroke: lightgray;
+  fill: lightgray;
+}
+
+.top:hover{
+  stroke: #0099fe;
+  fill: #0099fe;
 }
