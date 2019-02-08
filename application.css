@@ -89,6 +89,13 @@ h3, .month-line, .year-pie{
   border-radius: none;
   /* box-shadow: 1px 0px 1px rgba(0, 0, 0, 0.25); */
   background-color: transparent;
+  height: 0px;
+  overflow: hidden;
+}
+
+.extend{
+  height: 520px;
+  transition: hieght 1s;
 }
 
 .year-pie{
