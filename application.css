@@ -158,23 +158,21 @@ h3, .month-line, .year-pie{
   transition: all .8s;
 }
 
-
-/* .avatar{
-  position: absolute;
-  left: 39.5%;
-  top: 38.5%;
-  height: 24%;
-  width: 24%;
-  margin: auto;
-  border: 2px solid black;
-  border-radius: 50%;
-  overflow: hidden;
+.main>div>span{
+  font-size: 12px;
+  padding: 3px 8px;
+  background-color: lightgray;
+  width: auto;
+  margin: 0 auto;
+  border-radius: 5px;
 }
 
-.avatar>img{
-  object-fit: cover;
-  height: 100%;
-} */
+.main>div>span:hover{
+  background-color: #0099fe;
+  color:white;
+  font-size: 14px;
+  transition: all .8s;
+}
 
 .breeder:not(:hover) .nodetext {
   display: none;
