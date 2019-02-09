@@ -46,7 +46,6 @@ h1{
 .year{
   height: 600px;
   width: 100%;
-  min-width: 1020px;
 }
 
 h3, .month-line, .year-pie{
@@ -205,4 +204,11 @@ h3, .month-line, .year-pie{
 .top:hover{
   stroke: #0099fe;
   fill: #0099fe;
+}
+
+@media only screen and (max-width: 960px) {
+  .main{
+    width: 90%;
+
+  }
 }
